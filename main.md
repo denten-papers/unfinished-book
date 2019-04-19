@@ -52,7 +52,8 @@ range between the possible extremes.
 Similarly, the discrete nature of pages structures the pacing of reading on the one hand, and
 the pacing of the narrative on the other. Elements of a plot must, for all their variability,
 fit within the book. A reader's ability to read quickly or slowly is similarly limited by the
-affordances 
+affordances of page turning. In reading for the plot, a reader can advance to its end in a way
+that a video game player cannot when playing a video game. These are not natural constraints
 
 Book fits on a shelf.
 
