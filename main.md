@@ -13,8 +13,10 @@ Key to this understanding is a presupposition shared by most book historians, te
 and media scholars, which manifests in the attention to the material contexts of ideational
 content, for the book represents, at once, a metaphysical construct of the mind and a physical
 object. Matter envelops symbol to produce a specifically instantiated thing. Therefore, a
-reader's ability to reach anything like the content or the work of art, is limited by or
-facilitated by the medium. By that logic, the book is a container for the storage of ideas.
+reader's ability to reach anything like content or a work of art, is limited by or facilitated
+by the medium. By that logic, the book is a container for the storage of ideas.
+
+Before us is a
 
 The trans-mediation of mind-things into paper and ink things entails the corresponding
 trans-figuration of "content." A line of reasoning resembles a line on a page or a paragraph,
@@ -27,38 +29,58 @@ hand, bearing the imprint of its palm and digits. The hand for its part becomes 
 in grasping the tool.
 
 An interface determines the *affordance* of those actions that can be performed in concert
-between heterotopic systems. Between the universe of hand possibilities and fork possibilities,
-there lies a subset of actions available only to the combined set. It is not enough to say that
-a handle affords grasping, rather, it suggests convenient grasping in a specific way, and
-conversely, prevents other ways of grasping made inconvenient and impossible. An interface
-determines or governs through its affordances, by spatial arrangement, conforming the hand to
-the handle and the handle to the hand. For an archaeologist or a media archaeologist, the
-interface bares the traces of usage. Knowing nothing about human hands, an alien archaeologist
-would reconstruct them by the shape of our household tools, input devices such as mice and
-joysticks, eating and writing implements. Further, the affordance of such artifacts would
-suggest their probable use: as the difference between an axe and an adze necessitates distinct
-swinging motions and body postures, optimizing each for differing purposes: one for the
-chopping and the other for the carving of wood.
+between heterotopic systems. Amidst the universes of hand and fork possibilities, there lies a
+subset of actions available only to the combined set. It is not enough to say that a handle
+affords grasping, rather, it suggests convenient grasping in a specific way, and conversely,
+prevents other ways of grasping made inconvenient and impossible. An interface determines or
+governs through its affordances, by spatial arrangement, conforming the hand to the handle and
+the handle to the hand. For an archaeologist or a media archaeologist, interfaces bare the
+traces of its usage. Knowing nothing about human hands, an alien visitor would reconstruct them
+by the shape of our household tools, input devices such as mice and joysticks, and our eating
+and writing implements. Further, the affordance of such artifacts would suggest their probable
+use: the difference between an axe and an adze, for example, necessitates distinct swinging
+motions and body postures, optimizing each for differing purposes---one for the cutting and the
+other for the carving of wood.
 
-By the logic of interfaces and affordances, the very shape of a printed book contains a number
-of assumptions about the human body, which include minimally sufficient visual acuity and
-manual dexterity. Other-abled bodies, those with poor sight for example, must resort to
-assistive devices such as eye spectacles or magnifying loupes. At the other side of the
-interface, the book also shapes content as literary formats such as the novel or a short story
-define their measurements in relation to the average physical size of the medium. A novel will
-always be longer than a few pages and shorter than a million, and often at the some average
-range between the possible extremes.
+By the logic of interfaces and affordances, the shape of a printed book contains a number of
+assumptions about the human body, which include minimally sufficient visual acuity and manual
+dexterity. Other-abled bodies, those with poor sight for example, must resort to assistive
+devices such as eye spectacles or magnifying loupes. At the other side of the interface, the
+book also shapes content. Literary formats such as the novel or a short story define their
+measurements in relation to book objects, manufactured to conventional specifications. A novel
+will always be longer than a few pages and shorter than a million, and often at the some
+average range between the possible extremes. The microscopic and the macroscopic novels are
+possible, but improbable. Such objects would violate the established mechanisms of access,
+storage, and distribution of books, optimized for the equilibrium of convention.
 
-Similarly, the discrete nature of pages structures the pacing of reading on the one hand, and
-the pacing of the narrative on the other. Elements of a plot must, for all their variability,
-fit within the book. A reader's ability to read quickly or slowly is similarly limited by the
-affordances of page turning. In reading for the plot, a reader can advance to its end in a way
-that a video game player cannot when playing a video game. These are not natural constraints
+These limitations show how the discrete nature of pages structures the pacing of reading on the
+one hand, and the pacing of the narrative on the other. Elements of a plot must, for all their
+variability, fit within the book. A reader's ability to read quickly or slowly is similarly
+limited by the affordances of page turning. In reading for the plot, a reader can advance to
+its end in the manner that a video game player cannot when playing a video game.  Some such
+constraints are natural, arising from the molecular particularities of ink and paper---for
+example, reading a book in torrential storm conditions cannot be advised---while others are
+artificially and conventionally imposed, as is the case with page dimensions or the thickness
+of paper used in the production of a book. The container molds its content, thereby also
+contorting the body to conform to its interfaces.  The container "fits" its content, molding
+also the posture of the body, and, at their outer edge, influence the epistemic configuration
+of larger structures in which they are embedded. In this way letters shape words, word shape
+paragraphs, paragraphs pages, pages books, books shelves, shelves stacks, stacks libraries,
+libraries the episteme and the world.
 
-Book fits on a shelf.
-
-Letter shapes the word. Word shapes the paragraph. Paragraph shapes the page. Page shapes the
-book. Book shapes the shelf. Shelf shapes the room. Room shapes the library. Library shapes
-the world.
+If telepathy were real I would have liked to receive an author's thoughts directly, as a
+message without mediation, but I cannot. I must reach through these mediating structures and
+not only decode---understand and interpret---the message (still a symbolic operation), but
+trans-mediate it materially back from paper shapes into brain shapes. Given the stability of a
+medium, this process becomes habituated and conventionally ignored.  Nevertheless, our
+assumptions about hermeneutics---the art of interpretation---rest on habituated assumptions
+about print, assumptions that cannot be sustained in other media. Problematically for the
+reader of electronic books, the physics of computation rest in remote
+materialities---electromagnetic polarities and floating gate transistors---not immediately
+accessible to the human senses. Software engineers and user interface designers have dealt with
+this problem by simulating the affordances of a more familiar medium so as to rely on already
+habituated motions and intuitions. An reader of an electronic text may "scroll" or "flip"
+pages, in tacit understanding that the underlying motions involve neither scrolling nor
+flipping, but bitwise operations, the movement of liquid crystals and polar field effects.
 
 Platform.
