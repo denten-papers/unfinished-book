@@ -39,48 +39,57 @@ traces of its usage. Knowing nothing about human hands, an alien visitor would r
 by the shape of our household tools, input devices such as mice and joysticks, and our eating
 and writing implements. Further, the affordance of such artifacts would suggest their probable
 use: the difference between an axe and an adze, for example, necessitates distinct swinging
-motions and body postures, optimizing each for differing purposes---one for the cutting and the
-other for the carving of wood.
+motions, optimizing each for differing purposes---one for the cutting and the other for the
+carving of wood. But just as it leaves distinct toolmarks in wood, the orientation of the
+working edge also exhorts a specific body posture.
 
 By the logic of interfaces and affordances, the shape of a printed book contains a number of
 assumptions about the human body, which include minimally sufficient visual acuity and manual
-dexterity. Other-abled bodies, those with poor sight for example, must resort to assistive
-devices such as eye spectacles or magnifying loupes. At the other side of the interface, the
-book also shapes content. Literary formats such as the novel or a short story define their
-measurements in relation to book objects, manufactured to conventional specifications. A novel
-will always be longer than a few pages and shorter than a million, and often at the some
-average range between the possible extremes. The microscopic and the macroscopic novels are
-possible, but improbable. Such objects would violate the established mechanisms of access,
-storage, and distribution of books, optimized for the equilibrium of convention.
+dexterity. Other-abled bodies, those with severe hyperopia for example, must resort to
+assistive devices such as reading glasses or magnifying loupes. At the other side of the
+interface, the book also shapes content. Literary formats such as the novel or a short story
+define their measurements in relation to book objects, manufactured to conventional
+specifications. A novel will always be longer than a few pages and shorter than a million, and
+often at the some average range between the possible extremes. Micro- or macroscopic novels are
+possible, but impractical. Such objects would violate the established mechanisms of access,
+storage, and distribution of books, optimized to the equilibrium of convention.
 
 These limitations show how the discrete nature of pages structures the pacing of reading on the
-one hand, and the pacing of the narrative on the other. Elements of a plot must, for all their
+one hand, and the pacing of narrative on the other. Elements of a plot must, for all their
 variability, fit within the book. A reader's ability to read quickly or slowly is similarly
 limited by the affordances of page turning. In reading for the plot, a reader can advance to
 its end in the manner that a video game player cannot when playing a video game.  Some such
-constraints are natural, arising from the molecular particularities of ink and paper---for
-example, reading a book in torrential storm conditions cannot be advised---while others are
-artificially and conventionally imposed, as is the case with page dimensions or the thickness
-of paper used in the production of a book. The container molds its content, thereby also
-contorting the body to conform to its interfaces.  The container "fits" its content, molding
-also the posture of the body, and, at their outer edge, influence the epistemic configuration
-of larger structures in which they are embedded. In this way letters shape words, word shape
-paragraphs, paragraphs pages, pages books, books shelves, shelves stacks, stacks libraries,
-libraries the episteme and the world.
+constraints are natural, arising from the material particularities of ink and paper---for
+example, reading a soggy book in torrential storm conditions cannot be advised---while others
+are artificially and conventionally imposed, as is the case with page dimensions or the
+thickness of paper used in the production of a book. A container "fits" its content just as it
+casts the hand and eye into convenient grasping and gazing gestures. Further, at its outer
+edge, the imprint of a container becomes the organizing principle governing the configuration
+of larger epistemic structures in which it is embedded. In this way letters shape words, word
+shape paragraphs, paragraphs pages, pages books, books shelves, shelves stacks, stacks
+libraries, libraries the episteme and the world.
 
 If telepathy were real I would have liked to receive an author's thoughts directly, as a
 message without mediation, but I cannot. I must reach through these mediating structures and
-not only decode---understand and interpret---the message (still a symbolic operation), but
-trans-mediate it materially back from paper shapes into brain shapes. Given the stability of a
-medium, this process becomes habituated and conventionally ignored.  Nevertheless, our
-assumptions about hermeneutics---the art of interpretation---rest on habituated assumptions
-about print, assumptions that cannot be sustained in other media. Problematically for the
-reader of electronic books, the physics of computation rest in remote
-materialities---electromagnetic polarities and floating gate transistors---not immediately
-accessible to the human senses. Software engineers and user interface designers have dealt with
-this problem by simulating the affordances of a more familiar medium so as to rely on already
-habituated motions and intuitions. An reader of an electronic text may "scroll" or "flip"
-pages, in tacit understanding that the underlying motions involve neither scrolling nor
-flipping, but bitwise operations, the movement of liquid crystals and polar field effects.
+not only decode---understand and interpret---the message (all operations at the level of
+symbol), but trans-mediate it materially back from paper shapes into brain shapes. Given the
+stability of a medium, such as the book after Gutenberg press and before the internet, this
+process becomes naturalized and conventionally ignored.  Our assumptions about
+hermeneutics---the art of interpretation---rest on habituated assumptions about print,
+assumptions that cannot be sustained in other media.  Problematically for the reader of
+electronic books, the physics of computation rest in remote materialities---electromagnetic
+polarities and floating gate transistors---not immediately accessible to the human senses.
+Software engineers and user interface designers have dealt with this problem by simulating the
+affordances of a more familiar medium so as to rely on already habituated intuitions. A reader
+of an electronic text may "scroll" or "flip" pages, in tacit understanding that the underlying
+motions involve neither scrolling nor flipping, but bitwise operations, the movement of liquid
+crystals and polar field effects.
 
-Platform.
+The schematic representation of the book which I am attempting to sketch out here emerges in
+the technological envelopment of symbolic material, to fuse into a structure that is further
+encapsulated with its social context. At the outer limits of the textual universe, book as a
+*platform* exists with the complexity of authors, readers, publishers, censors, librarians,
+rook sellers, collectors, and book pirates, for whom books serve as tokens of cultural and
+financial capital. These platforms usually exist as organic outgrowths of localized ad-hoc
+development. A book market in Lahore, Pakistan looks different from that of Chisinau, Moldova
+and yet more different from that found in New York, USA. 
