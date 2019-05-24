@@ -1,4 +1,4 @@
-Reading Platforms
+Reading Platforms 6-7k
 
 To imagine a possible future of the book, in light of its pasts, I would like to present not so
 much a final shape or an object, but rather a sketch---a roadmap---for the study of objects
@@ -21,7 +21,7 @@ object of art---further contained by the social structures that once again media
 mediated by their symbolic and technological containments.
 
 A reader's inability to "grasp the shadowy and fantasmal form of the book" in its entirety, "to
-hold it fast, to turn it over and survey it at leisure" (@lubbock, 1) stems from the
+hold it fast, to turn it over and survey it at leisure" [@lubbock, 1] stems from the
 fundamental incompatibilities between the innermost symbolic, purely discursive, realms and the
 outermost, corporeal, and purely embodied techniques of comprehension: the first, limited by
 the expressive possibilities of language and the second by the cognitive and perceptual
@@ -49,7 +49,7 @@ paragraphs, and SSDs in polarized configurations of floating gates. Despite thes
 material differences, we are able to recognize similarities across media in content conceived
 in purely symbolic, second-order structural terms. The paragraphs of Virginia's Wolf's *To the
 Lighthouse* follow the same sequence on paper and on screen, although on a hard drive, they
-might be stored in a completely non-sequential, fragmented patches of data (and this in
+might be stored in a completely non-sequential, fragmented patches of data (and that in
 contrast to the orderly procession of paragraphs on a page). Books "take shape in the mind of
 the reader," where "they are recreated and set up where the mind's eye can rest on them." A
 book can never be embodied fully as a mental structure in other words, the interpretive gaze
@@ -65,18 +65,47 @@ physical structure, and further to attend to the mechanisms of transposition bet
 media.
 
 This traversal between first- and second-order structures follows strict and often rigidly
-defined conventions, which specify the exact placement of abstracted units, constituting the
+defined conventions that specify the exact placement of abstracted units, constituting the
 format of the medium-symbol integration. Consider the popular EPUB format, which has its roots
 in the Open Book™ Publication Structure (OEBPS). According to the Library of Congress records,
-the format was created in 1999 by the Open eBook Authoring Group, which consisted of "over 25
+the format was created in 1999 by the Open eBook Authoring Group, that consisted of "over 25
 individuals from organizations participating in the Open eBook initiative, launched in October
 1998 [...] convened and facilitated by NIST (the National Institute of Standards and
 Technology.)" We learn also that the Authoring Group "included participants representing all
 aspects of the electronic publishing industry, and was open to any interested individual or
-organization." We are immediately unable separate social from the formal.
+organization." The document begins with a statement of the group's purpose and scope: "to
+provide a specification for representing the content of electronic books" and "to give content
+providers [...] minimal and common guidelines which ensure fidelity, accuracy, accessibility,
+and presentation of electronic content over various electronic book platforms" [@oebps, 1]. The
+concern with "various electronic book platforms," acknowledges the difficulty of describing
+document structure under the conditions where the exact dimensions of the medium are not known
+in advance. The Open Book could have been displayed on devices large and small, in full color
+or monochrome, or on those devices providing "mainly audio or tactile interfaces" [@oebps, 23].
+The media agnostic nature of the format necessitated an abstracted style layer, expressed in
+HTML/XML and CSS markup schemas, which would describe textual elements such as footnotes and
+titles in relative terms such as left, right, top, bottom, or center. In addition to these
+positional elements, the format specified social metadata, for example "creator" and
+"contributor" types, including subtypes such as annotator, book producer, collaborator,
+illustrator, printer, reviewer, sponsor, and translator among others [@oebps, 15-17].
 
-symbol in the title and the emphasis on broadly participatory
-nature of the endeavour point to the link between data and social.
+The trademark symbol in the title of the standard, along with the copyright notice on its front
+page, work against the grain of its social claims that emphasize the open, participatory nature
+of the endeavour. The admixture of content, layout, and para-textual metadata further erodes
+the boundaries between strictly formal, content-based abstractions (chapter, paragraph, page)
+and social roles encoded into, if not always apparent at the surface of the document. From the
+moment of its founding, the "open" ebook format embeds and is embedded within the North
+American copyright regime, in a way that would later allow "content creators," "persons or
+corporate bodies" to police access to the "reading device," "the physical platform (hardware
+and software) on which publications are rendered" [@ops 2.0.1]. The reading platform emerges
+from this amalgam of text, technology, bodies, and social structure.
+
+What does a format format then? In light of the EPUB example, we observe a series of
+envelopments around the notion of content: the first semantic, by which ideational elements are
+ordered symbolically (a progression of chapters, for example; second, spatial, by which
+semantic units are laid out and oriented in space; third, technological, by which spatial units
+are rendered on a device; next, corporeal, by which a reader's body can interface with the
+device; and finally the social---political, legal, and economic---by which the interface
+between bodies and devices is governed.
 
 An interface determines the *affordance* of those actions that can be performed in concert
 between heterotopic systems. Amidst the universes of hand and fork possibilities, there lies a
