@@ -1,5 +1,5 @@
 ---
-title: "Electronic Books, Reading Platforms"
+title: "Reading Platforms"
 author: Dennis Yi Tenen
 length: 6-7k
 
@@ -12,7 +12,7 @@ critical gaze in their full complexity and sheer alien difference to the familia
 without their mystery---constellations made of paper and ink. This sketch will be an
 opportunity to introduce several terms borrowed from the fields of media studies and computer
 science, terms that should equip us to better understand those areas of the map already
-explored and those still in need of description, pathfinding, and analysis. The interlaced
+explored and those still in need of description, pathfinding, and analysis. The interleaved
 media archaeology of electronic books will serve to ground theoretical principles in observed
 practice.
 
@@ -26,7 +26,7 @@ object of art---further contained by the social structures that once again media
 mediated by their symbolic and technological containments.
 
 A reader's inability to "grasp the shadowy and fantasmal form of the book" in its entirety, "to
-hold it fast, to turn it over and survey it at leisure" [@lubbock, 1] stems from the
+hold it fast, to turn it over and survey it at leisure" [@lubbock_craft_1921, 1] stems from the
 fundamental incompatibilities between the innermost symbolic, purely discursive, realms and the
 outermost, corporeal, and purely embodied techniques of comprehension: the first, limited by
 the expressive possibilities of language and the second by the cognitive and perceptual
@@ -41,30 +41,32 @@ transcendent form---and the structure of words on a page---their immanent format
 interface of two incompatible systems, the symbolic and biological. An interface enables the
 compatibility between physically heterotopic systems at the point of contact. In this way, the
 tail end of a fork is molded to conform to the hand and begins to resemble a hand, bearing the
-imprint of a palm and its digits. The hand for its part becomes more fork-like in the grasping
-of the tool. Similarly, the interface of a digital book is that physical adaptation that allows
+imprint of a palm and its digits. A hand for its part becomes more fork-like in the grasping of
+the tool. Similarly, the interface of a digital book is that physical adaptation that allows
 for the physical exchange between between mind and symbol, reshaping both in the process of
 transmission.
 
-The electronic book came into being in multiple guises, one of the earliest being a part of the
+Electronic books came into being in multiple guises, one of the earliest being a part of the
 PLATO (Programmed Logic for Automatic Teaching Operations), a computer controlled teaching
 system, implemented at the University of Illinois, Urbana in the 1960s. PLATO's history as an
 educational tool and a proto-internet information sharing network is well explored by
-historians such as Joy Lisi Rinkin, in her ground-breaking *People's History of Computing in
+historians such as Joy Lisi Rankin, in her ground-breaking *People's History of Computing in
 the United States* (Harvard University Press, 2018). Less known is PLATO's original coinage of
-the "electronic book," consisting of a "bank of slides," of the type usually "found in a
+the term "electronic book," consisting of a "bank of slides," of the type usually "found in a
 textbook or in class notes," but "prestored in an electronic slide selector" that could be
 "shared by all the students," who were also able to "view same or different slides
 simultaneously [...] by connecting electronically to the student's television display"
-[@bitzer_uses_1966, 36; @rinkin, 171]. The system was capable of storing 122 such slides, and
-to provide access to them in an arbitrary order in less than a microsecond [@bitzer_uses_1966,
-36]. In a parallel development circa 1962, the US National Science Foundation announced "a new
-publishing program of electronic 'books' contained on magnetic tape." Developed by
-Documentation, Inc., a Washington D.C. firm, these so-called "computexts" were meant to
-facilitate "high-speed computer searches in readable English." "An Electronic Index to Chemical
-Patents" was to be the first title issued to take advantage of that capability. "The electronic
-index will cover 150,000 patents issued over the last 17-years," read the report, "the set of
-tapes covering this data can be contained in only one cubic foot of storage space"
+[@bitzer_uses_1966, 36; @rankin_peoples_2018, 171]. The system was capable of storing 122 such
+slides, and to provide access to them in an arbitrary order in less than a microsecond
+[@bitzer_uses_1966, 36]. In a parallel development circa 1962, the US National Science
+Foundation announced "a new publishing program of electronic 'books' contained on magnetic
+tape"---note the quotation marks that indicate a certain unease with the functional
+transference between technological systems.  Developed by Documentation, Inc., a Washington
+D.C. firm, these so-called "computexts" were meant to facilitate "high-speed computer searches
+in readable English." "An Electronic Index to Chemical Patents" was to be the first title
+issued to take advantage of that capability. "The electronic index will cover 150,000 patents
+issued over the last 17-years," read the report, "the set of tapes covering this data can be
+contained in only one cubic foot of storage space"
 [@national_science_foundation_electronic_1962, 4].
 
 Both of these devices were enabled by the simultaneous maturing of three technologies: magnetic
@@ -87,12 +89,12 @@ facsimile of page, and eventually a book.
 In the historically contingent agglomeration of these three specific technologies we observe
 the development of a bridge-like structure, expanding to span the gap between media and human
 sensory organs. Where minds and ideas are hosted by bodies and brains, texts, and inscriptions
-are hosted by increasingly more remote physicalites such as solid state drives (SSDs) and
-liquid crystal displays (LCDs). The different systems store information in radically different
-formats: the brain, as a lattice of connected neurons, books, in chapters and paragraphs, and
-SSDs in polarized configurations of floating gates. Despite these first-order material
-differences, we are able to recognize similarities across media in content conceived in purely
-symbolic, second-order structural terms. The paragraphs of Virginia's Wolf's *To the
+are hosted on paper and increasingly in more remote physicalites such as solid state drives
+(SSDs) and liquid crystal displays (LCDs). The different systems store information in radically
+different formats: the brain, as a lattice of connected neurons, books, in chapters and
+paragraphs, and SSDs in polarized configurations of floating gates. Despite these first-order
+material differences, we are able to recognize similarities across media in content conceived
+in purely symbolic, second-order structural terms. The paragraphs of Virginia's Wolf's *To the
 Lighthouse* follow the same sequence on paper and on screen, although on a hard drive, they
 might be stored in a completely non-sequential, fragmented patches of data (and that in
 contrast to the orderly procession of paragraphs on a page). Books "take shape in the mind of
@@ -107,22 +109,23 @@ picture---it would support a world of shadows" [@lubbock, 274]. But the book doe
 tangibly on paper and in mind, although in different formats. To traverse the two one need to
 disambiguate the meaning of the book in the sense of a mental from that in the sense of a
 physical structure, and further to attend to the mechanisms of transposition between divergent
-media.
+media: hardware and wetware, technology and biology.
 
 The traversal between such first- and second plus-order structures follows strict and often
-rigidly defined conventions that specify the exact placement of abstracted units, constituting
-the format of the medium-symbol integration. Consider the popular EPUB format, which has its
-roots in the Open Book™ Publication Structure (OEBPS). According to the Library of Congress
-records, the format was created in 1999 by the Open eBook Authoring Group, that consisted of
-"over 25 individuals from organizations participating in the Open eBook initiative, launched in
-October 1998 [...] convened and facilitated by NIST (the National Institute of Standards and
-Technology.)" We learn also that the Authoring Group "included participants representing all
-aspects of the electronic publishing industry, and was open to any interested individual or
-organization." The document begins with a statement of the group's purpose and scope: "to
-provide a specification for representing the content of electronic books" and "to give content
-providers [...] minimal and common guidelines which ensure fidelity, accuracy, accessibility,
-and presentation of electronic content over various electronic book platforms" [@oebps, 1]. The
-concern with "various electronic book platforms," acknowledges the difficulty of describing
+rigidly defined conventions, constituting the reification of thought into thing, or simply
+format.  Consider the popular EPUB format, which has its roots in the Open Book™ Publication
+Structure (OEBPS).  According to the Library of Congress records, the format was created in
+1999 by the Open eBook Authoring Group, that consisted of "over 25 individuals from
+organizations participating in the Open eBook initiative, launched in October 1998 [...]
+convened and facilitated by NIST (the National Institute of Standards and Technology.)" We
+learn also that the Authoring Group "included participants representing all aspects of the
+electronic publishing industry, and was open to any interested individual or organization." The
+document begins with a statement of the group's purpose and scope: "to provide a specification
+for representing the content of electronic books" and "to give content providers [...] minimal
+and common guidelines which ensure fidelity, accuracy, accessibility, and presentation of
+electronic content over various electronic book platforms" [@oebps, 1].
+
+The concern with "various electronic book platforms," acknowledges the difficulty of describing
 document structure under the conditions where the exact dimensions of the medium are not known
 in advance. The Open Book could have been displayed on devices large and small, in full color
 or monochrome, or on those devices providing "mainly audio or tactile interfaces" [@oebps, 23].
@@ -142,16 +145,26 @@ moment of its founding, the "open" ebook format embeds and is embedded within th
 American copyright regime, in a way that would later allow "content creators," "persons or
 corporate bodies" to police access to the "reading device," "the physical platform (hardware
 and software) on which publications are rendered" [@ops 2.0.1]. The reading platform emerges
-from this amalgam of text, technology, bodies, and social structure.
+from this amalgam of text, technology, body, and social structure. The platform facilitates the
+transition from thought to thing and therefore enters the realm of politics, being neither
+neutral nor a natural process. Because formats ultimately determine channels of access and
+distribution, they are negotiated and contested. The EPUB working group was historically
+dominated by corporate representatives from Adobe, Apple, Barnes & Noble, Google, IBM,
+HarperCollins, Pearson, Penguin, Random House, Sharp, and Sony.
 
 What does a format format then? Following the EPUB example, we observe a series of envelopments
 around the notion of content: the first semantic, by which ideational elements are ordered
-symbolically (a progression of chapters, for example; second, spatial, by which semantic units
+symbolically (a progression of chapters, for example); second, spatial, by which semantic units
 are laid out and oriented in space; third, technological, by which spatial units are rendered
 on a device; next, corporeal, by which a reader's body can interface with the device; and
 finally the social---political, legal, and economic---by which surface contact between bodies
 and devices is negotiated. Formatting---mutual shaping---happens at each linkage in the long
-chain of transmediation between symbol and society.
+chain of transmediation between symbol and society. And where a book can identify any number of
+such linked configurations, the book as a platform fixes all into a rigid chain. Colloquially,
+we therefore understand that Nintendo "the gaming platform" has something to do with Nintendo
+Nintendo Co., Ltd., and that a "Nintendo game", while under copyright, can only become a game
+on Nintendo-branded devices. Amazon Kindle and Adobe Digital Edition platforms strive for the
+same vertical integration, even when their products are still nominally called books.
 
 If telepathy were real I would have liked to receive an author's thoughts directly, as a
 message without mediation, but I cannot. I must reach through these mediating structures and
