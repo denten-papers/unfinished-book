@@ -13,8 +13,8 @@ without their mystery---constellations made of paper and ink. This sketch will b
 opportunity to introduce several terms borrowed from the fields of media studies and computer
 science, terms that should equip us to better understand those areas of the map already
 explored and those still in need of description, pathfinding, and analysis. The interleaved
-media archaeology of electronic books will serve to ground theoretical principles in observed
-practice.
+media archaeology of several electronic books will serve to ground theoretical principles in
+observed practice.
 
 Key to this understanding is a presupposition shared by most book historians, textual critics,
 and media scholars, which manifests in the attention to the social and material contexts of
@@ -35,16 +35,16 @@ wholly determinate nor wholly socially constructed. Rather, they develop through
 negotiated protocols, by which specific interfaces or channels of transmission develop between
 disparate symbolisms and physicalities. The trans-mediation of mind-things into paper and ink
 things entails the corresponding trans-figuration of content, the latter in the simple sense of
-that which is being contained. A line of reasoning resembles a line on a page or a paragraph,
-although the two do not transpose perfectly. The structure of thoughts in the abstract---their
-transcendent form---and the structure of words on a page---their immanent format---meet at the
+that which is being contained. A line of reasoning inhabits a paragraph on a page, although the
+two structures do not transpose perfectly. The structure of thoughts in the mind---their
+transcendent form---and the structure of lines on a page---their immanent format---meet at the
 interface of two incompatible systems, the symbolic and biological. An interface enables the
 compatibility between physically heterotopic systems at the point of contact. In this way, the
-tail end of a fork is molded to conform to the hand and begins to resemble a hand, bearing the
-imprint of a palm and its digits. A hand for its part becomes more fork-like in the grasping of
-the tool. Similarly, the interface of a digital book is that physical adaptation that allows
-for the physical exchange between between mind and symbol, reshaping both in the process of
-transmission.
+tail end of a fork is molded to conform to the hand, where it begins to resemble a hand,
+bearing the imprint of a palm and its digits. A hand for its part becomes more fork-like in the
+grasping of the tool. Similarly, the interface of a digital book is that physical adaptation
+that allows for the physical exchange between between mind and symbol, reshaping both in the
+process of transmission.
 
 Electronic books came into being in multiple guises, one of the earliest being a part of the
 PLATO (Programmed Logic for Automatic Teaching Operations), a computer controlled teaching
@@ -61,68 +61,85 @@ slides, and to provide access to them in an arbitrary order in less than a micro
 [@bitzer_uses_1966, 36]. In a parallel development circa 1962, the US National Science
 Foundation announced "a new publishing program of electronic 'books' contained on magnetic
 tape"---note the quotation marks that indicate a certain unease with the functional
-transference between technological systems.  Developed by Documentation, Inc., a Washington
-D.C. firm, these so-called "computexts" were meant to facilitate "high-speed computer searches
-in readable English." "An Electronic Index to Chemical Patents" was to be the first title
-issued to take advantage of that capability. "The electronic index will cover 150,000 patents
-issued over the last 17-years," read the report, "the set of tapes covering this data can be
-contained in only one cubic foot of storage space"
-[@national_science_foundation_electronic_1962, 4].
+transference between technological systems. Developed by Documentation, Inc., a Washington D.C.
+firm, these so-called "computexts" were meant to facilitate "high-speed computer searches in
+readable English." "An Electronic Index to Chemical Patents" was to be the first title released
+to take advantage of that capability. "The electronic index will cover 150,000 patents issued
+over the last 17-years," read the report, "the set of tapes covering this data can be contained
+in only one cubic foot of storage space" [@national_science_foundation_electronic_1962, 4].
 
-Both of these devices were enabled by the simultaneous maturing of three technologies: magnetic
-tape storage, cathode ray tube (CRT) television, and the typewriter. As a storage medium, tape
-offered a number of advantages over its predecessors. It was, as the documents note, more
-portable than paper, punch cards, or magnetic drums. It lasted longer than other mechanized
-forms of storage, because electro-magnetic reading and writing devices made light contact with
-the tape---unlike, for example, punch-card systems, where the mechanism had to physically
-protrude through the media in order to read and write. Unlike hole-punches or ink, magnetic
-polarities were easily reversible, making for a re-writable medium, in which errors of
-transcription could be immediately reversed. However, magnetic tape had one major weakness, in
-that it denied plain readability, electromagnetic inscription being invisible to the human eye.
-The increasing commercialization of CRT television displays in the 1960s made possible a
-restoration of human vision. Editing tapes directly with magnets or scissors was also obviously
-impractical. An instrument equivalent of a pen was needed to facilitate revision. Coupled with
-this system, a typewriter restored our tactile ability to edit stored inscriptions. In concert,
-tube, tape, and typewriter could approximate the affordances of ink and paper, creating a
-facsimile of page, and eventually a book.
+Computexts and PLATO electronic books were enabled by the simultaneous maturing of three
+technologies: magnetic tape storage, cathode ray tube (CRT) television, and the typewriter. As
+a storage medium, tape offered a number of advantages over its predecessors. It was, as the
+documents note, more portable than paper, punch cards, or magnetic drums. It lasted longer than
+other mechanized forms of storage, because electro-magnetic reading and writing devices made
+light contact with the tape---unlike, for example, punch-card systems, where the mechanism had
+to physically protrude through the media in order to read and write. Unlike hole-punches or
+ink, magnetic polarities were easily reversible, making for a re-writable medium, in which
+errors of transcription could be immediately reversed. However, magnetic tape had one major
+weakness, in that it denied plain readability, electromagnetic inscription being invisible to
+the human eye. The increasing commercialization of CRT television displays in the 1960s made
+possible a restoration of human vision. Editing tapes directly with magnets or scissors was
+also obviously impractical. An instrument equivalent to a pen was needed to facilitate
+revision. Coupled with this system, a typewriter restored our tactile ability to edit stored
+inscription. In concert, tube, tape, and typewriter could approximate the affordances of ink
+and paper, creating a facsimile of page, and eventually a book.
+
+By 1979, it was already possible to imagine to imagine a "portable, electronic viewing device
+to replace presently existing books, magazines, microfilm, computer printouts and other printed
+media" [@rubincam_electronic_1979, 1]. In his US Patent 4,159,417 David Rubincam proposed "an
+information storage and display apparatus [...] having a memory, a [laser] sensor for sensing
+information from memory, logic circuitry operatively coupled with the sensor, and a display in
+operative relationship with the logic circuitry for visually displaying the information stored
+in memory" [@rubincam_electronic_1979, 1]. The content of Rubincam's electronic books was to be
+stored on holographic memory cards, one of which could potentially store up to 200 Mbits of
+data, or approximately ten average-sized volumes in plain text---text without formatting or
+illustrations (Figure 2). The front of the device housed several interfaces: a variable speed
+page turner switch (labeled 70), a page number display (72), ten buttons by which a reader
+could enter specific pages (74), and several "fine tuning deflectors, in the event that the
+laser beam is not centered properly on the hologram" [@rubincam_electronic_1979, 5].
 
 In the historically contingent agglomeration of these three specific technologies we observe
 the development of a bridge-like structure, expanding to span the gap between media and human
-sensory organs. Where minds and ideas are hosted by bodies and brains, texts, and inscriptions
-are hosted on paper and increasingly in more remote physicalites such as solid state drives
-(SSDs) and liquid crystal displays (LCDs). The different systems store information in radically
-different formats: the brain, as a lattice of connected neurons, books, in chapters and
-paragraphs, and SSDs in polarized configurations of floating gates. Despite these first-order
+sensory organs. Where minds and ideas inhabit brains and bodies, inscriptions permeate a paper
+medium. Increasingly, texts occupy more remote physicalites such as solid state drives (SSDs)
+and liquid crystal displays (LCDs). Such disparate systems store information in radically
+divergent formats: the brain, as a lattice of connected neurons; books, in chapters and
+paragraphs; and SSDs in polarized configurations of floating gates. Despite these first-order
 material differences, we are able to recognize similarities across media in content conceived
 in purely symbolic, second-order structural terms. The paragraphs of Virginia's Wolf's *To the
-Lighthouse* follow the same sequence on paper and on screen, although on a hard drive, they
-might be stored in a completely non-sequential, fragmented patches of data (and that in
-contrast to the orderly procession of paragraphs on a page). Books "take shape in the mind of
-the reader," where "they are recreated and set up where the mind's eye can rest on them." A
-book can never be embodied fully as a mental structure in other words, the interpretive gaze
-necessarily falls on "certain fragments of the book which the author wrote, the rest of it
-having ceased to exist for us" [@lubbock, 3]. Lubbock struggles conceptually by overloading the
-concept of the book to indicate at once mental and physical structures, and later terminates
-his inquiry stopping just short of media studies: "if only there were one single tangible and
-measurable fact about the book---if it could be weighed like a statute, say, or measured like a
-picture---it would support a world of shadows" [@lubbock, 274]. But the book does exist
-tangibly on paper and in mind, although in different formats. To traverse the two one need to
-disambiguate the meaning of the book in the sense of a mental from that in the sense of a
-physical structure, and further to attend to the mechanisms of transposition between divergent
-media: hardware and wetware, technology and biology.
+Lighthouse* might be stored in a completely non-sequential, fragmented patches of data, and
+that in contrast to the orderly procession of paragraphs on a page. Second-order book sequences
+"take shape in the mind of the reader," where "they are recreated and set up where the mind's
+eye can rest on them," the English critic Percy Lubbock wrote in frustration about the novel.
+An interpretive gaze necessarily falls on "certain fragments of the book which the author
+wrote," he continued, "the rest of it having ceased to exist for us" [@lubbock_craft_1921, 3].
+This "having ceased to exist" is literal, for the eye continually leaves a pile of discarded
+pages in its wake. Lubbock  struggles conceptually, as does later Carline Levine in her *Forms:
+Whole, Rhythm, Hierarchy, Network* (2015) because for them books indicate at once mental and
+physical structures or, rather, perhaps because for most literary scholar the work usually
+takes precedence over the object, making materialism difficult if not impossible. Both *Craft
+of Fiction* (1921) and *Forms* therefore stop just short of media studies. "If only there were
+one single tangible and measurable fact about the book," Lubbock wrote, "if it could be weighed
+like a statute, say, or measured like a picture---it would support a world of shadows"
+[@lubbock, 274]. But the book does exist tangibly on paper and in mind, although in different
+formats. To traverse the two one need to disambiguate the meaning of the book in the sense of
+"a mental form," from that in the sense of "a physical structure," and further to attend to the
+mechanisms of transposition between divergent media: hardware and wetware, inscription,
+instrument, and biology.
 
 The traversal between such first- and second plus-order structures follows strict and often
 rigidly defined conventions, constituting the reification of thought into thing, or simply
-format.  Consider the popular EPUB format, which has its roots in the Open Book™ Publication
-Structure (OEBPS).  According to the Library of Congress records, the format was created in
-1999 by the Open eBook Authoring Group, that consisted of "over 25 individuals from
-organizations participating in the Open eBook initiative, launched in October 1998 [...]
-convened and facilitated by NIST (the National Institute of Standards and Technology.)" We
-learn also that the Authoring Group "included participants representing all aspects of the
-electronic publishing industry, and was open to any interested individual or organization." The
-document begins with a statement of the group's purpose and scope: "to provide a specification
-for representing the content of electronic books" and "to give content providers [...] minimal
-and common guidelines which ensure fidelity, accuracy, accessibility, and presentation of
+format. Consider the popular EPUB format, which has its roots in the Open Book™ Publication
+Structure (OEBPS). According to the Library of Congress records, the format was created in 1999
+by the Open eBook Authoring Group, that consisted of "over 25 individuals from organizations
+participating in the Open eBook initiative, launched in October 1998 [...] convened and
+facilitated by NIST (the National Institute of Standards and Technology.)" We learn also that
+the Authoring Group "included participants representing all aspects of the electronic
+publishing industry, and was open to any interested individual or organization." The document
+begins with a statement of the group's purpose and scope: "to provide a specification for
+representing the content of electronic books" and "to give content providers [...] minimal and
+common guidelines which ensure fidelity, accuracy, accessibility, and presentation of
 electronic content over various electronic book platforms" [@oebps, 1].
 
 The concern with "various electronic book platforms," acknowledges the difficulty of describing
