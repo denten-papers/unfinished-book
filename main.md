@@ -46,8 +46,25 @@ grasping of the tool. Similarly, the interface of a digital book is that physica
 that allows for the physical exchange between between mind and symbol, reshaping both in the
 process of transmission.
 
-Electronic books came into being in multiple guises, one of the earliest being a part of the
-PLATO (Programmed Logic for Automatic Teaching Operations), a computer controlled teaching
+"To continue reading at today's speed I must have a machine," Bob Brown wrote in his famous
+*Readies* (1930), which presaged the electronic book. To these ends he imagined "a simple
+reading machine which I can carry or move around, attach to any old electric light plug and
+read hundred thousand word novels in ten minutes, if I want to, and I want to."[^tn-brown] In
+the United States, Brown's portentions were accompanied by technological developments in
+micrographic print, including B.A. Fiske's "Reading Machine," consisting of a hand-held
+magnifying glass wand (Figure 1) that was to be passed over paper-tape medium, labeled 10 on
+the illustration. "I find it is entirely feasible," Fiske wrote, "by suitable photographic or
+other process, to reduce a two and one-half inch column of typewritten or printed matter to a
+column of one-quarter of an inch wide, so that by arranging five such columns side by side of
+both sides of a paper tape [...] it becomes possible to present one hundred thousand words, the
+length of an average book, on a tape slightly longer than forty inches" [@fiske_reading_1922,
+1].
+
+![Fiske, Bradley A. Reading Machine. United States US1411008A, filed November 20, 1920, and
+issued March 28, 1922.](images/fiske-1.png)
+
+Actual electronic books came into being in multiple guises, one of the earliest being a part of
+the PLATO (Programmed Logic for Automatic Teaching Operations), a computer controlled teaching
 system, implemented at the University of Illinois, Urbana in the 1960s. PLATO's history as an
 educational tool and a proto-internet information sharing network is well explored by
 historians such as Joy Lisi Rankin, in her ground-breaking *People's History of Computing in
@@ -67,6 +84,9 @@ readable English." "An Electronic Index to Chemical Patents" was to be the first
 to take advantage of that capability. "The electronic index will cover 150,000 patents issued
 over the last 17-years," read the report, "the set of tapes covering this data can be contained
 in only one cubic foot of storage space" [@national_science_foundation_electronic_1962, 4].
+
+[^tn-brown]: @brown_readies_1930, 28. On Brown's *Readies* see @north_words_2002;
+@pressman_machine_2011; @stephens_bob_2011.
 
 Computexts and PLATO electronic books were enabled by the simultaneous maturing of three
 technologies: magnetic tape storage, cathode ray tube (CRT) television, and the typewriter. As
@@ -91,42 +111,48 @@ media" [@rubincam_electronic_1979, 1]. In his US Patent 4,159,417 David Rubincam
 information storage and display apparatus [...] having a memory, a [laser] sensor for sensing
 information from memory, logic circuitry operatively coupled with the sensor, and a display in
 operative relationship with the logic circuitry for visually displaying the information stored
-in memory" [@rubincam_electronic_1979, 1]. The content of Rubincam's electronic books was to be
-stored on holographic memory cards, one of which could potentially store up to 200 Mbits of
-data, or approximately ten average-sized volumes in plain text---text without formatting or
-illustrations (Figure 2). The front of the device housed several interfaces: a variable speed
-page turner switch (labeled 70), a page number display (72), ten buttons by which a reader
-could enter specific pages (74), and several "fine tuning deflectors, in the event that the
-laser beam is not centered properly on the hologram" [@rubincam_electronic_1979, 5].
+in memory" (Figure 1) [@rubincam_electronic_1979, 1]. The content of Rubincam's electronic
+books was to be stored on holographic memory cards, one of which could potentially store up to
+200 Mbits of data, or approximately ten average-sized volumes in plain text---text without
+formatting or illustrations (Figure 2). The front of the device housed several interfaces: a
+variable speed page turner switch (labeled 70), a page number display (72), ten buttons by
+which a reader could enter specific pages (74), and several "fine tuning deflectors, in the
+event that the laser beam is not centered properly on the hologram" [@rubincam_electronic_1979,
+5]. It wold
 
-In the historically contingent agglomeration of these three specific technologies we observe
-the development of a bridge-like structure, expanding to span the gap between media and human
-sensory organs. Where minds and ideas inhabit brains and bodies, inscriptions permeate a paper
-medium. Increasingly, texts occupy more remote physicalites such as solid state drives (SSDs)
-and liquid crystal displays (LCDs). Such disparate systems store information in radically
-divergent formats: the brain, as a lattice of connected neurons; books, in chapters and
-paragraphs; and SSDs in polarized configurations of floating gates. Despite these first-order
-material differences, we are able to recognize similarities across media in content conceived
-in purely symbolic, second-order structural terms. The paragraphs of Virginia's Wolf's *To the
-Lighthouse* might be stored in a completely non-sequential, fragmented patches of data, and
-that in contrast to the orderly procession of paragraphs on a page. Second-order book sequences
-"take shape in the mind of the reader," where "they are recreated and set up where the mind's
-eye can rest on them," the English critic Percy Lubbock wrote in frustration about the novel.
-An interpretive gaze necessarily falls on "certain fragments of the book which the author
-wrote," he continued, "the rest of it having ceased to exist for us" [@lubbock_craft_1921, 3].
-This "having ceased to exist" is literal, for the eye continually leaves a pile of discarded
-pages in its wake. Lubbock  struggles conceptually, as does later Carline Levine in her *Forms:
-Whole, Rhythm, Hierarchy, Network* (2015) because for them books indicate at once mental and
-physical structures or, rather, perhaps because for most literary scholar the work usually
-takes precedence over the object, making materialism difficult if not impossible. Both *Craft
-of Fiction* (1921) and *Forms* therefore stop just short of media studies. "If only there were
-one single tangible and measurable fact about the book," Lubbock wrote, "if it could be weighed
-like a statute, say, or measured like a picture---it would support a world of shadows"
-[@lubbock, 274]. But the book does exist tangibly on paper and in mind, although in different
-formats. To traverse the two one need to disambiguate the meaning of the book in the sense of
-"a mental form," from that in the sense of "a physical structure," and further to attend to the
-mechanisms of transposition between divergent media: hardware and wetware, inscription,
-instrument, and biology.
+![Rubincam, David P. Electronic book. United States US4159417A, filed October 28, 1977, and
+issued June 26, 1979. The top illustration shows "a fragmentary plan view of the controls of an
+embodiment of the invention," and the bottom a memory card containing a "plurality of
+holograms," along with its protective case.](images/rubincam-1.png)
+
+In the historically contingent agglomeration of these three specific technologies---screen,
+portable storage, and keyboard---we observe the development of a bridge-like structure,
+expanding to span the gap between media and human sensory organs. Where minds and ideas inhabit
+brains and bodies, inscriptions permeate a paper medium and increasingly occupy more remote
+physicalites such as solid state drives (SSDs) and liquid crystal displays (LCDs). Such
+disparate systems store information in radically divergent formats: the brain, as a lattice of
+connected neurons; books, in chapters and paragraphs; and SSDs in polarized configurations of
+floating gates. Despite these first-order material differences, we are able to recognize
+similarities across media in content conceived in purely symbolic, second-order structural
+terms. The paragraphs of Virginia's Wolf's *To the Lighthouse* might be stored in a completely
+non-sequential, fragmented patches of data, and that in contrast to the orderly procession of
+paragraphs on a page. Second-order book sequences "take shape in the mind of the reader," where
+"they are recreated and set up where the mind's eye can rest on them," the English critic Percy
+Lubbock wrote in frustration about the novel.  An interpretive gaze necessarily falls on
+"certain fragments of the book which the author wrote," he continued, "the rest of it having
+ceased to exist for us" [@lubbock_craft_1921, 3].  This "having ceased to exist" is literal,
+for the eye continually leaves a pile of discarded pages in its wake. Lubbock  struggles
+conceptually, as does later Carline Levine in her *Forms: Whole, Rhythm, Hierarchy, Network*
+(2015) because for them books indicate at once mental and physical structures or, rather,
+       perhaps because for most literary scholar the work usually takes precedence over the
+object, making materialism difficult if not impossible. Both *Craft of Fiction* (1921) and
+*Forms* therefore stop just short of media studies. "If only there were one single tangible and
+measurable fact about the book," Lubbock wrote, "if it could be weighed like a statute, say, or
+measured like a picture---it would support a world of shadows" [@lubbock, 274]. But the book
+does exist tangibly on paper and in mind, although in different formats. To traverse the two
+one need to disambiguate the meaning of the book in the sense of "a mental form," from that in
+the sense of "a physical structure," and further to attend to the mechanisms of transposition
+between divergent media: hardware and wetware, inscription, instrument, and biology.
 
 The traversal between such first- and second plus-order structures follows strict and often
 rigidly defined conventions, constituting the reification of thought into thing, or simply
