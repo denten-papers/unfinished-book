@@ -14,7 +14,7 @@ opportunity to introduce several terms borrowed from the fields of media studies
 science, terms that should equip us to better understand those areas of the map already
 explored and those still in need of description, pathfinding, and analysis. The interleaved
 media archaeology of several electronic books will serve to ground theoretical principles in
-observed practice.
+observed particulates.
 
 Key to this understanding is a presupposition shared by most book historians, textual critics,
 and media scholars, which manifests in the attention to the social and material contexts of
@@ -99,7 +99,7 @@ inseparable as a device and format, the book would gradually delaminate onto mul
 some supporting its habituated semantic coherence---a progression of pages---others extending
 it to include other modalities of reading, leafing, browsing, searching, and interpreting.
 
-Electronic books came into being in multiple guises, one of the earliest being a part of the
+Electronic books came into being by multiple means, one of the earliest being a part of the
 PLATO (Programmed Logic for Automatic Teaching Operations), a computer controlled teaching
 system, implemented at the University of Illinois, Urbana in the 1960s. PLATO's history as an
 educational tool and a proto-internet information sharing network is well explored by
@@ -190,26 +190,6 @@ different formats. To traverse the two one need to disambiguate the meaning of t
 sense of "a mental form," from that in the sense of "a physical structure," and further to
 attend to the mechanisms of transposition between divergent media: hardware and wetware,
 inscription, instrument, and biology.
-
-In the late 1980s, a group of designers and engineers at Apple were among those rethinking the
-role of mediation in contemporary storytelling, in collaboration with Grolier Electronic
-Publishing. The result of this multi-year project was *Guides*, an attempt to reimagine the an
-encyclopedia of American history for young adults. Physically, its "delivery system" consisted
-of an Apple Macintosh Plus (SE or II), with one megabyte of memory, "combined with a standard
-CD-ROM drive and running Apple's HyperCard software" [@salomon_using_1989, 3]. HyperCards were
-Apple's interface metaphor for a relational database, and an attempt to evoke a
-medium---hypermedia in their corporate parlance and "programming for poets!"---no longer
-constrained by its analogy with print. A card could hold any type of information: text, sound,
-or video. Like an index card, it could be stacked in any number of arbitrary configurations,
-shuffled, labeled, and cross-referenced [@goodman_complete_1988, 1-15]. On a small screen of
-the period---nine inches diagonally at 72 dots per inch resolution---a HyperCard occupied the
-entirety of the screen [@salomon_using_1989, 3].
-
-![ "The specification of individual guides was achieved by using the topical keys created by
-the editors for classifying the articles within the database" (7). Salomon, Gitta, Tim Oren,
-and Kristee Kreitman. “Using Guides to Explore Multimedia Databases.” In Proceedings of the
-Twenty-Second Annual Hawaii International Conference on System Sciences. Volume IV: Emerging
-Technologies and Applications Track, 4:3–12 vol.4, 1989.  (7).](images/guides.png)
 
 The traversal between such first- and second plus-order structures follows strict and often
 rigidly defined conventions, constituting the reification of thought into thing, or simply
@@ -325,6 +305,61 @@ specifications. A novel will always be longer than a few pages and shorter than 
 often at the some average range between the possible extremes. Micro- or macroscopic novels are
 possible, but impractical. Such objects would violate the established mechanisms of access,
 storage, and distribution of books, optimized to the equilibrium of convention.
+
+In the late 1980s, a group of designers and engineers at Apple were among those rethinking the
+role of mediation in contemporary storytelling, in collaboration with Grolier Electronic
+Publishing. The result of this multi-year project was *Guides*, an attempt to reimagine an
+encyclopedia of North American history for young adults. Physically, its "delivery system"
+consisted of an Apple Macintosh Plus (SE or II), with one megabyte of memory, "combined with a
+standard CD-ROM drive and running Apple's HyperCard software" [@salomon_using_1989, 3].
+HyperCards were Apple's interface metaphor for a relational database, and an evocation of a new
+medium---billed as hypermedia in corporate parlance and "programming for poets!"---no longer
+constrained by its analogy with print. A card could hold any type of information: text, sound,
+or video. Like an index card, it could be stacked in any number of arbitrary configurations,
+shuffled, labeled, or cross-referenced [@goodman_complete_1988, 1-15]. On a Macintosh Plus, a
+HyperCard occupied the entirety of the screen, nine inches diagonally at 72 dots per inch
+resolution [@salomon_using_1989, 3].
+
+Apple, more than other companies, understood that neither screens nor relational databases were
+approachable ideas for the general public. Programming poets therefore turned to narrative
+theory to design interfaces that relied on familiar story tropes. Brenda Laurel, who joined the
+Guides project shortly after completing her dissertation on a "computer-based interactive
+fantasy system," wrote: "In the Guides project, the typical spatial metaphor employed in most
+hypertext or hypermedia databases is replaced by the notion of information, not as a space, but
+as *a series of events unfolding over time," in other words, a narrative
+[@laurel_computers_1991, 182]. "Narrative includes both the story being told (content) and the
+conditions of its telling (structure and context," another member of team explained: "Interface
+designers can adopt strategies from narrative theory, such as including multiple
+representations of events and information, or using characters as a means of representing
+material with an explicitly acknowledged points of view" [@laurel_computers_1991, 182;
+@abbe_narrative_1990, 383]. The guide personalities for the encyclopedia were in reality
+several faceted "topical keys," or labels, "created by the editors for classifying the articles
+within the database [@salomon_using_1989, 7]. A taxonomic, epistemological formation in a
+catalog of articles was therefore grouped under several available personalities, such as
+settler, sea captain, scout, inventor, slave, and Indian. "Information always reflects
+something about its source and its purpose," Laurel wrote. It is a "made thing, influenced by
+its efficient, formal, material, and end causes" [@laurel_computers_1991, 179]. A point of
+view, however archetypical, could therefore de-center the seemingly universal epistemological
+claims to objectivity implicit in the notion of a technical database.
+
+!["The specification of individual guides was achieved by using the topical keys created by
+the editors for classifying the articles within the database" (7). Salomon, Gitta, Tim Oren,
+and Kristee Kreitman. “Using Guides to Explore Multimedia Databases.” In Proceedings of the
+Twenty-Second Annual Hawaii International Conference on System Sciences. Volume IV: Emerging
+Technologies and Applications Track, 4:3–12 vol.4, 1989.  (7).](images/guides.png)
+
+Laudable as these design goals were for trying to undermine a singular narrative of American
+settler colonialism, they came at a coast of another deterritorialization. The material
+hardware contexts of electromagnetic storage, difficult to traverse even for experienced
+software engineers, were elided in favor of the database metaphor, a second order abstraction.
+For the sake of greater inclusively and commercial value, that abstraction too was
+metaphorically transferred into the language of cards, decks, and stacks. In yet another
+metaphorical envelopment, the material contexts of HyperCards were represented in terms of
+hypothetical system agents, which appeared in the guise of historical actor-perspectives.  The
+chain of mediation between reader and inscription---the bridge, as I have been calling
+it---lengthened, substituting material contexts for the metaphorical. However emancipatory in
+the abstract, the ownership and the understanding of the physical platform remained in
+corporate hands, as the nature of ownership itself and its disfranchisement was occluded.
 
 The schematic representation of the book which I am attempting to sketch out here emerges in
 the technological envelopment of symbolic material, to fuse into a structure that is further
