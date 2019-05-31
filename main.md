@@ -193,22 +193,23 @@ inscription, instrument, and biology.
 
 In the late 1980s, a group of designers and engineers at Apple were among those rethinking the
 role of mediation in contemporary storytelling, in collaboration with Grolier Electronic
-Publishing. The result of this multi-year project was *Guides*, an attempt to reimagine the
-shape of an encyclopedia for young adults. Physically, the "delivery system" consisted of an
-Apple Macintosh Plus (SE or II), with one megabyte of memory, "combined with a standard CD-ROM
-drive and running Apple's HyperCard software" [@salomon_using_1989, 3]. HyperCards were Apple's
-interface metaphor for a relational database, and an attempt to evoke a medium---hypermedia in
-their corporate parlance and "programming for poets!"---no longer constrained by its analogy
-with print. A card could hold any type of information: text, sound, or video. Like an index
-card, it could be stacked in any number of arbitrary configurations, shuffled, labeled, and
-cross-referenced [@goodman_complete_1988, 1-15]. On a small screen of the period---nine inches
-diagonally at 72 dots per inch resolution---a HyperCard occupied the entirety of the screen
-[@salomon_using_1989, 3].
+Publishing. The result of this multi-year project was *Guides*, an attempt to reimagine the an
+encyclopedia of American history for young adults. Physically, its "delivery system" consisted
+of an Apple Macintosh Plus (SE or II), with one megabyte of memory, "combined with a standard
+CD-ROM drive and running Apple's HyperCard software" [@salomon_using_1989, 3]. HyperCards were
+Apple's interface metaphor for a relational database, and an attempt to evoke a
+medium---hypermedia in their corporate parlance and "programming for poets!"---no longer
+constrained by its analogy with print. A card could hold any type of information: text, sound,
+or video. Like an index card, it could be stacked in any number of arbitrary configurations,
+shuffled, labeled, and cross-referenced [@goodman_complete_1988, 1-15]. On a small screen of
+the period---nine inches diagonally at 72 dots per inch resolution---a HyperCard occupied the
+entirety of the screen [@salomon_using_1989, 3].
 
-![Rubincam, David P. Electronic book. United States US4159417A, filed October 28, 1977, and
-issued June 26, 1979. The top illustration shows "a fragmentary plan view of the controls of an
-embodiment of the invention," and the bottom a memory card containing a "plurality of
-holograms," along with its protective case.](images/guides.png)
+![ "The specification of individual guides was achieved by using the topical keys created by
+the editors for classifying the articles within the database" (7). Salomon, Gitta, Tim Oren,
+and Kristee Kreitman. “Using Guides to Explore Multimedia Databases.” In Proceedings of the
+Twenty-Second Annual Hawaii International Conference on System Sciences. Volume IV: Emerging
+Technologies and Applications Track, 4:3–12 vol.4, 1989.  (7).](images/guides.png)
 
 The traversal between such first- and second plus-order structures follows strict and often
 rigidly defined conventions, constituting the reification of thought into thing, or simply
@@ -347,5 +348,3 @@ Because the book is a platform and not merely an For reason, a universal theory 
 and consequently a universal theory of literature is impossible. The act of interpretation
 holds true for locally contingent agglomerations of signs, media, and bodies, stable only in
 specific and limited historical, cultural, and economic contexts.
-
-
