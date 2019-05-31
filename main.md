@@ -47,24 +47,60 @@ that allows for the physical exchange between between mind and symbol, reshaping
 process of transmission.
 
 "To continue reading at today's speed I must have a machine," Bob Brown wrote in his famous
-*Readies* (1930), which presaged the electronic book. To these ends he imagined "a simple
-reading machine which I can carry or move around, attach to any old electric light plug and
-read hundred thousand word novels in ten minutes, if I want to, and I want to."[^tn-brown] In
-the United States, Brown's portentions were accompanied by technological developments in
-micrographic print, including B.A. Fiske's "Reading Machine," consisting of a hand-held
-magnifying glass wand (Figure 1) that was to be passed over paper-tape medium, labeled 10 on
-the illustration. "I find it is entirely feasible," Fiske wrote, "by suitable photographic or
-other process, to reduce a two and one-half inch column of typewritten or printed matter to a
-column of one-quarter of an inch wide, so that by arranging five such columns side by side of
-both sides of a paper tape [...] it becomes possible to present one hundred thousand words, the
-length of an average book, on a tape slightly longer than forty inches" [@fiske_reading_1922,
-1].
+avant-garde manifesto *Readies* (1930), which some scholars take to presage the electronic
+book. To these ends he imagined "a simple reading machine which I can carry or move around,
+attach to any old electric light plug and read hundred thousand word novels in ten minutes if I
+want to, and I want to."[^tn-brown] Print matter in Brown's vision would be distributed in
+"dainty pillboxes" on mechanized rolls, wound automatically under a magnifying glass. "My
+machine is equipped with controls so the reading record can be turned back or short ahead," he
+wrote, "a chapter reread or the happy ending anticipated" [@brown_readies_1930, 29]. 
+
+However, Brown's portentions did not rise out of a vacuum---they were accompanied by over a
+century of technological developments in micrographic print, a history that itself was
+concomitant with advances in photography.[^ln-micrography] Where Nicéphore Niépce and Louis
+Jacques Mandé Daguerre are conventionally considered to have invented photography in the 1830s,
+by 1857 the *Encyclopaedia Britannica* included a discussion on "microscopic photography," by
+which tiny "copies of dispatches and valuable paper and plans might be transmitted by post, and
+secrets might be placed in spaces not larger than a full stop or a small blot of ink"
+[@noauthor_microscope_1857, 802; @meckler_micropublishing_1982, 6]. It is reported that the
+French photographer René Dagron sent more than 60,000 micrographic messages by pigeon carrier
+during the Prussian siege of Paris in 1870 and in 1872 the Russian imperial military
+experimented with micrographic maps for concealment and espionage [@luther_microfilm_1959,
+143--62]. "It is natural that such results appear miraculous," wrote a pair of
+librarian-engineers presenting their ideas "On a New Form of the Book: The Microphotographic
+Book" (Sur une forme novelle du livre: le livre microphotographique) at the convention of
+Institut International de Bibliographie held in Marseilles, France in 1906. Placed into a
+"simple enlarger" and illuminated, text would be "projected on a ground glass that closes the
+opposite side of the *camera obscura*," the authors explained. "It is there that the reading of
+text will take place," they wrote:
+
+> A slide positioned on the stage of a microscope of the carriage of a typewriter will
+circulate the fiche from left to right and top to bottom. Then at the reader's will, the
+microphotographic pages on each centimeter of the film will come successively in front of the
+lens to be read.[@meckler_micropublishing_1982, 12].
+
+In the United States, the long history of micrography included portable devices such as B.A.
+Fiske's "Reading Machine," consisting of a hand-held magnifying glass wand (Figure 1) that was
+to be passed over paper-tape medium (labeled 10 on the illustration). "I find it is entirely
+feasible," Fiske wrote, "by suitable photographic or other process, to reduce a two and
+one-half inch column of typewritten or printed matter to a column of one-quarter of an inch
+wide, so that by arranging five such columns side by side of both sides of a paper tape [...]
+it becomes possible to present one hundred thousand words, the length of an average book, on a
+tape slightly longer than forty inches" [@fiske_reading_1922, 1]. By the 1920s micrographic
+equipment was routinely manufactured by the Eastman Kodak company, Rectigraph (later Xerox),
+and Remington Rand Corporation [@meckler_micropublishing_1982, 10--16].
 
 ![Fiske, Bradley A. Reading Machine. United States US1411008A, filed November 20, 1920, and
 issued March 28, 1922.](images/fiske-1.png)
 
-Actual electronic books came into being in multiple guises, one of the earliest being a part of
-the PLATO (Programmed Logic for Automatic Teaching Operations), a computer controlled teaching
+In Brown's *Readies*, we glimpse the gradual reshaping of the book, made possible by the
+storage capabilities of paper ribbons, glass plates, lenses, and rolls of celluloid.  Once
+inseparable as a device and format, the book would gradually delaminate onto multiple surfaces:
+some supporting its habituated semantic coherence---a progression of pages---others extending
+it to include other modalities of reading, leafing, browsing, searching, and interpreting.
+
+Electronic books came into being in multiple guises, one of the earliest being a part of the
+PLATO (Programmed Logic for Automatic Teaching Operations), a computer controlled teaching
 system, implemented at the University of Illinois, Urbana in the 1960s. PLATO's history as an
 educational tool and a proto-internet information sharing network is well explored by
 historians such as Joy Lisi Rankin, in her ground-breaking *People's History of Computing in
@@ -91,13 +127,13 @@ in only one cubic foot of storage space" [@national_science_foundation_electroni
 Computexts and PLATO electronic books were enabled by the simultaneous maturing of three
 technologies: magnetic tape storage, cathode ray tube (CRT) television, and the typewriter. As
 a storage medium, tape offered a number of advantages over its predecessors. It was, as the
-documents note, more portable than paper, punch cards, or magnetic drums. It lasted longer than
+documents note, more portable than paper, punch cards, or celluloid. It lasted longer than
 other mechanized forms of storage, because electro-magnetic reading and writing devices made
 light contact with the tape---unlike, for example, punch-card systems, where the mechanism had
-to physically protrude through the media in order to read and write. Unlike hole-punches or
+to physically protrude through the media in order to be read or written. Unlike hole-punches or
 ink, magnetic polarities were easily reversible, making for a re-writable medium, in which
-errors of transcription could be immediately reversed. However, magnetic tape had one major
-weakness, in that it denied plain readability, electromagnetic inscription being invisible to
+errors of transcription could be immediately reversed. Magnetic tape had one major weakness
+however, in that it denied plain readability, electromagnetic inscription being invisible to
 the human eye. The increasing commercialization of CRT television displays in the 1960s made
 possible a restoration of human vision. Editing tapes directly with magnets or scissors was
 also obviously impractical. An instrument equivalent to a pen was needed to facilitate
@@ -111,14 +147,13 @@ media" [@rubincam_electronic_1979, 1]. In his US Patent 4,159,417 David Rubincam
 information storage and display apparatus [...] having a memory, a [laser] sensor for sensing
 information from memory, logic circuitry operatively coupled with the sensor, and a display in
 operative relationship with the logic circuitry for visually displaying the information stored
-in memory" (Figure 1) [@rubincam_electronic_1979, 1]. The content of Rubincam's electronic
-books was to be stored on holographic memory cards, one of which could potentially store up to
-200 Mbits of data, or approximately ten average-sized volumes in plain text---text without
-formatting or illustrations (Figure 2). The front of the device housed several interfaces: a
-variable speed page turner switch (labeled 70), a page number display (72), ten buttons by
-which a reader could enter specific pages (74), and several "fine tuning deflectors, in the
-event that the laser beam is not centered properly on the hologram" [@rubincam_electronic_1979,
-5]. It wold
+in memory" (Figure 2) [@rubincam_electronic_1979, 1]. The content of Rubincam's electronic
+books was to be stored on holographic memory cards, one of which could store up to 200 Mbits of
+data, or approximately ten average-sized volumes in plain text---text without formatting or
+illustrations (Figure 3). The front of the device housed several interfaces: a variable speed
+page turner switch (labeled 70), a page number display (72), ten buttons by which a reader
+could enter specific pages (74), and several "fine tuning deflectors, in the event that the
+laser beam is not centered properly on the hologram" [@rubincam_electronic_1979, 5]. It wold
 
 ![Rubincam, David P. Electronic book. United States US4159417A, filed October 28, 1977, and
 issued June 26, 1979. The top illustration shows "a fragmentary plan view of the controls of an
@@ -138,21 +173,42 @@ terms. The paragraphs of Virginia's Wolf's *To the Lighthouse* might be stored i
 non-sequential, fragmented patches of data, and that in contrast to the orderly procession of
 paragraphs on a page. Second-order book sequences "take shape in the mind of the reader," where
 "they are recreated and set up where the mind's eye can rest on them," the English critic Percy
-Lubbock wrote in frustration about the novel.  An interpretive gaze necessarily falls on
+Lubbock wrote in frustration about the novel. An interpretive gaze necessarily falls on
 "certain fragments of the book which the author wrote," he continued, "the rest of it having
 ceased to exist for us" [@lubbock_craft_1921, 3].  This "having ceased to exist" is literal,
-for the eye continually leaves a pile of discarded pages in its wake. Lubbock  struggles
-conceptually, as does later Carline Levine in her *Forms: Whole, Rhythm, Hierarchy, Network*
-(2015) because for them books indicate at once mental and physical structures or, rather,
-       perhaps because for most literary scholar the work usually takes precedence over the
-object, making materialism difficult if not impossible. Both *Craft of Fiction* (1921) and
-*Forms* therefore stop just short of media studies. "If only there were one single tangible and
-measurable fact about the book," Lubbock wrote, "if it could be weighed like a statute, say, or
-measured like a picture---it would support a world of shadows" [@lubbock, 274]. But the book
-does exist tangibly on paper and in mind, although in different formats. To traverse the two
-one need to disambiguate the meaning of the book in the sense of "a mental form," from that in
-the sense of "a physical structure," and further to attend to the mechanisms of transposition
-between divergent media: hardware and wetware, inscription, instrument, and biology.
+for the eye continually leaves a pile of discarded pages in its wake.
+
+Lubbock struggles conceptually, as does later Carline Levine in her *Forms: Whole, Rhythm,
+Hierarchy, Network* (2015) because for them books indicate at once mental and physical
+structures or, rather, perhaps because for most literary scholar the work usually takes
+precedence over the object, making concerted materialism difficult if not impossible. Both
+*Craft of Fiction* (1921) and *Forms* therefore stop just short of media studies. "If only
+there were one single tangible and measurable fact about the book," Lubbock wrote, "if it could
+be weighed like a statute, say, or measured like a picture---it would support a world of
+shadows" [@lubbock, 274]. But the book does exist tangibly on paper and in mind, although in
+different formats. To traverse the two one need to disambiguate the meaning of the book in the
+sense of "a mental form," from that in the sense of "a physical structure," and further to
+attend to the mechanisms of transposition between divergent media: hardware and wetware,
+inscription, instrument, and biology.
+
+In the late 1980s, a group of designers and engineers at Apple were among those rethinking the
+role of mediation in contemporary storytelling, in collaboration with Grolier Electronic
+Publishing. The result of this multi-year project was *Guides*, an attempt to reimagine the
+shape of an encyclopedia for young adults. Physically, the "delivery system" consisted of an
+Apple Macintosh Plus (SE or II), with one megabyte of memory, "combined with a standard CD-ROM
+drive and running Apple's HyperCard software" [@salomon_using_1989, 3]. HyperCards were Apple's
+interface metaphor for a relational database, and an attempt to evoke a medium---hypermedia in
+their corporate parlance and "programming for poets!"---no longer constrained by its analogy
+with print. A card could hold any type of information: text, sound, or video. Like an index
+card, it could be stacked in any number of arbitrary configurations, shuffled, labeled, and
+cross-referenced [@goodman_complete_1988, 1-15]. On a small screen of the period---nine inches
+diagonally at 72 dots per inch resolution---a HyperCard occupied the entirety of the screen
+[@salomon_using_1989, 3].
+
+![Rubincam, David P. Electronic book. United States US4159417A, filed October 28, 1977, and
+issued June 26, 1979. The top illustration shows "a fragmentary plan view of the controls of an
+embodiment of the invention," and the bottom a memory card containing a "plurality of
+holograms," along with its protective case.](images/guides.png)
 
 The traversal between such first- and second plus-order structures follows strict and often
 rigidly defined conventions, constituting the reification of thought into thing, or simply
@@ -229,19 +285,19 @@ The tactile property of pages guides the eye and the hand in a way to create a c
 reading in real time. A reader's ability to read quickly or slowly is similarly limited by the
 affordances of page turning. In reading for the plot, a reader can advance to its end in the
 manner that a video game player cannot when playing a video game.  Some digital readers can
-even be configured to page the book automatically and to measure the duration of the reading
-engagement in time units (three hours left in this book) rather than in pages (200 pages left).
-Obversely, a page format affects the pacing of narrative, as a system of symbolic order.
-Elements of a plot must, for all their variability, fit within the book. Such constraints are
-natural, arising from the material particularities of ink and paper---for example, reading a
-soggy book in torrential storm conditions cannot be advised---while others are artificially and
-conventionally imposed, as is the case with page dimensions or the thickness of paper used in
-the production of a book. A container "fits" its content just as it casts the hand and eye into
-convenient grasping and gazing gestures. Further, at its outer edge, the imprint of a container
-becomes the organizing principle governing the configuration of larger epistemic structures in
-which it is embedded. In this way letters shape words, word shape paragraphs, paragraphs pages,
-pages books, books shelves, shelves stacks, stacks libraries, libraries the episteme and the
-world.
+even be configured to page the book automatically, as Brown imagined it, and to measure the
+duration of the reading engagement in time units (three hours left in this book) rather than in
+pages (200 pages left).  Obversely, a page format affects the pacing of narrative, as a system
+of symbolic order.  Elements of a plot must, for all their variability, fit within the book.
+Such constraints are natural, arising from the material particularities of ink and paper---for
+example, reading a soggy book in torrential storm conditions cannot be advised---while others
+are artificially and conventionally imposed, as is the case with page dimensions or the
+thickness of paper used in the production of a book. A container "fits" its content just as it
+casts the hand and eye into convenient grasping and gazing gestures. Further, at its outer
+edge, the imprint of a container becomes the organizing principle governing the configuration
+of larger epistemic structures in which it is embedded. In this way letters shape words, word
+shape paragraphs, paragraphs pages, pages books, books shelves, shelves stacks, stacks
+libraries, libraries the episteme and the world.
 
 Interfaces determine the affordance of those actions that can be performed in concert between
 heterotopic systems. Amidst the universes of hand and fork possibilities, there lies a subset
@@ -269,15 +325,6 @@ often at the some average range between the possible extremes. Micro- or macrosc
 possible, but impractical. Such objects would violate the established mechanisms of access,
 storage, and distribution of books, optimized to the equilibrium of convention.
 
-"About This Book shows you additional information about your book the first time you open it."
-Four starts at average by 469 readers. A typical time to read 3 hours and 23 pages. I can
-"follow" Virginia Woolf's author pages, I am recommended other works by the author and informed
-of 583 passages highlight 5,848 times. "And, what was even more exciting, she felt, too, as she
-saw Mr Ramsay bearding down and retreating, and Mrs ramsay sitting with James in the windo and
-the cloud moving and the tree bending, how life, from bein made up of little separate incidents
-which one lived one by one, became curled and whole like a wave which bore one up and threw one
-down with it, there, with a dash on the beach" [@woolf, location 626].
-
 The schematic representation of the book which I am attempting to sketch out here emerges in
 the technological envelopment of symbolic material, to fuse into a structure that is further
 encapsulated with its social context. At the outer limits of the textual universe, book as a
@@ -287,8 +334,18 @@ financial capital. These platforms usually exist as organic outgrowths of locali
 development. A book market in Lahore, Pakistan looks different from that of Chisinau, Moldova
 and yet more different from that found in New York, USA.
 
+"About This Book shows you additional information about your book the first time you open it."
+Four starts at average by 469 readers. A typical time to read 3 hours and 23 pages. I can
+"follow" Virginia Woolf's author pages, I am recommended other works by the author and informed
+of 583 passages highlight 5,848 times. "And, what was even more exciting, she felt, too, as she
+saw Mr Ramsay bearding down and retreating, and Mrs ramsay sitting with James in the windo and
+the cloud moving and the tree bending, how life, from bein made up of little separate incidents
+which one lived one by one, became curled and whole like a wave which bore one up and threw one
+down with it, there, with a dash on the beach" [@woolf, location 626].
+
 Because the book is a platform and not merely an For reason, a universal theory of the book,
 and consequently a universal theory of literature is impossible. The act of interpretation
 holds true for locally contingent agglomerations of signs, media, and bodies, stable only in
 specific and limited historical, cultural, and economic contexts.
+
 
