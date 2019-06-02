@@ -2,7 +2,8 @@
 title: "Reading Platforms: A Brief History of the Electronic Book"
 author: Dennis Yi Tenen
 bibliography: bib.bib
-csl: turabian-author-date.csl
+suppress-bibliography: true
+csl: turabian-fullnote-bibliography.csl
 ---
 
 To imagine a possible future of the book, in light of its pasts, I would like to present not so
@@ -514,4 +515,3 @@ Thompson John, *Merchants of Culture: The Publishing Business in the Twenty-Firs
 Vismann Cornelia, *Files: Law and Media Technology*, translated by Geoffrey Winthrop-Young,
 (Stanford: Stanford University Press, 2008).
 
-## Bibliography
