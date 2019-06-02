@@ -1,5 +1,5 @@
 ---
-title: "Reading Platforms"
+title: "Reading Platforms: A Brief History of the Electronic Book"
 author: Dennis Yi Tenen
 bibliography: bib.bib
 ---
@@ -460,3 +460,60 @@ engulfment.
 [^ln-memory]: For example, in 2013 scientists created a false memory in mice by
 "optogenetically manipulating memory engram-bearing cells in the hippocampus." See
 @ramirez_creating_2013.
+
+## Further Reading
+
+Chun, Wendy Hui Kyong. Updating to Remain the Same. Cambridge, MA: MIT Press, 2017.
+
+Dunbar-Hester, Christina. Low Power to the People: Pirates, Protest, and Politics in FM Radio
+Activism. Cambridge, MA: MIT Press, 2014.
+
+Flusser, Vilem, and Vilém Flusser. The Shape of Things. London, UK: Reaktion Books, 1999.
+
+Galloway, Alexander R. The Interface Effect. Cambridge, UK: Polity, 2012.
+
+Gitelman, Lisa. Paper Knowledge: Toward a Media History of Documents. Durham, NC: Duke
+University Press, 2014.
+
+Gómez-Barris, Macarena. The Extractive Zone: Social Ecologies and Decolonial Perspectives.
+Durham, NC: Duke University Press, 2017.
+
+Hayles, N. Katherine. How We Think: Digital Media and Contemporary Technogenesis. Chicago, IL:
+University of Chicago Press, 2012.
+
+Hu, Tung-Hui. A Prehistory of the Cloud. Cambridge, MA: MIT Press, 2016.
+
+Hui, Yuk. On the Existence of Digital Objects. Minneapolis, MN: University of Minnesota Press,
+2016.
+
+Jagoda, Patrick. Network Aesthetics. Chicago, IL: University of Chicago Press, 2016.
+
+Johns, Adrian. Piracy: The Intellectual Property Wars from Gutenberg to Gates. Chicago, IL:
+University of Chicago Press, 2010.
+
+Kirschenbaum, Matthew G. Mechanisms: New Media and the Forensic Imagination. Cambridge, MA: MIT
+Press, 2008.
+
+Mattern, Shannon. Code and Clay, Data and Dirt: Five Thousand Years of Urban Media.
+Minneapolis, MN: University of Minnesota Press, 2017.
+
+Noble, Safiya Umoja. Algorithms of Oppression: How Search Engines Reinforce Racism. New York,
+NY: NYU Press, 2018.
+
+Peters, John Durham. The Marvelous Clouds: Toward a Philosophy of Elemental Media. Chicago, IL:
+University of Chicago Press, 2016.
+
+Starosielski, Nicole. The Undersea Network. Durham, NC: Duke University Press, 2015.
+
+Sterne, Jonathan. MP3: The Meaning of a Format. Durham, NC: Duke University Press, 2012.
+
+Striphas, Ted. The Late Age of Print: Everyday Book Culture from Consumerism to Control. New
+York, NY: Columbia University Press, 2011.
+
+Thompson, John. Merchants of Culture: The Publishing Business in the Twenty-First Century by
+John B. Thompson (16-Mar-2012) Paperback. Cambridge, UK: Polity Press, 2012.
+
+Vismann, Cornelia. Files: Law and Media Technology. Translated by Geoffrey Winthrop-Young.
+Stanford, CA: Stanford University Press, 2008.
+
+## Bibliography
